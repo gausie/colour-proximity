@@ -14,6 +14,3 @@ colour-proximity.proximity("#ffffff","#000000)	// 441.6729559300637
 Use [node](http://nodejs.org) with [npm](http://npmjs.org):
 
 	npm install colour-proximity
-
-
-
