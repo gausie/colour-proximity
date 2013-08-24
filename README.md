@@ -1,6 +1,6 @@
 # colour-proximity
 
-Get a value of the proximity of two hex colours (between 0 and 100). 
+Get a value of the proximity of two hex colours.
 
 This package also exports `rgb2lab([r,g,b])`, a function that converts RGB to L*a*b* at Observer=2° and Illuminant=D65
 
