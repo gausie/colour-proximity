@@ -2,7 +2,7 @@
   "name": "colour-proximity",
   "author": "Gausie <git@gaus.ie>",
   "description": "Get a value of the proximity of two hex colours.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/gausie/colour-proximity.git"
@@ -13,7 +13,9 @@
     "colour",
     "proximity",
     "closeness",
-    "similarity"
+    "similarity",
+    "L*a*b*",
+    "Lab"
   ],
   "dependencies": {
     "color-string": "~0.1.2"
